@@ -1,0 +1,12 @@
+
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="autojump"
+version="1.0"
+displayName="AutoJump"
+description='''
+Automatically jumps when the player lands.
+'''
